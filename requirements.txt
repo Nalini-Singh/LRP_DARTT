@@ -1,0 +1,8 @@
+
+python-nmap
+pymetasploit3
+fpdf
+markdown
+networkx
+matplotlib
+sqlite3
